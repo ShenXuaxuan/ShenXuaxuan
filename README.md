@@ -1,16 +1,14 @@
-## Hi there 👋
+# ShenXuaxuan
+This is the personal profile readme about me !!!
 
-<!--
-**ShenXuaxuan/ShenXuaxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Xuan Shen,
 
-Here are some ideas to get you started:
+**About me**
+ 
+- 💼 I am a PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Dr. [Xianhui Lu](https://dblp.org/pid/40/7264.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ My research passion is Fully Homomorphic Encryption (FHE)
+
+- 📈 I'm new to GitHub and excited to share more FHE-related code in the future
+
+- 💬 If you're also interested in FHE, feel free to email me at shenxuan@iie.ac.cn.
