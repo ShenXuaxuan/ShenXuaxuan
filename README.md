@@ -1,4 +1,4 @@
-# ShenXuaxuan
+# Xuan Shen
 This is the personal profile readme about me !!!
 
 ### Hi there 👋 I'm Xuan Shen,
