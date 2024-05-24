@@ -12,3 +12,5 @@ This is the personal profile readme about me !!!
  📈 I'm new to GitHub and excited to share more FHE-related code in the future
 
  💬 If you're also interested in FHE, feel free to email me at shenxuan@iie.ac.cn.
+
+ ❤️❤️ By the way, if you're into blockchain, check out my boyfriend's GitHub page,[skyonedot](https://github.com/skyonedot). It's a treasure trove!
